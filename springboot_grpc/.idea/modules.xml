@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grpc_client/grpc_client.iml" filepath="$PROJECT_DIR$/grpc_client/grpc_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc_lib/grpc_lib.iml" filepath="$PROJECT_DIR$/grpc_lib/grpc_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc_server/grpc_server.iml" filepath="$PROJECT_DIR$/grpc_server/grpc_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_grpc.iml" filepath="$PROJECT_DIR$/springboot_grpc.iml" />
+    </modules>
+  </component>
+</project>
